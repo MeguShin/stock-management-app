@@ -27,4 +27,9 @@ https://docs.google.com/spreadsheets/d/179gK1jVrZyrD1cSMnVc1gNyx5Em-PPg9/edit?us
 
 https://drive.google.com/file/d/1_u3i0LuWCAM13vpP4mLKYR_fnZudaNnl/view?usp=sharing
 
+# ER図
+
+![image](https://github.com/MeguShin/stock-management-app/assets/124676146/e1be65c8-1f63-4bd4-a08f-bbcdca591145)
+
 #
+
