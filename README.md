@@ -19,4 +19,12 @@ $ rails s
 
 https://docs.google.com/spreadsheets/d/179gK1jVrZyrD1cSMnVc1gNyx5Em-PPg9/edit?usp=sharing&ouid=101416693121345503921&rtpof=true&sd=true
 
+# テーブル定義書
+
+https://docs.google.com/spreadsheets/d/179gK1jVrZyrD1cSMnVc1gNyx5Em-PPg9/edit?usp=sharing&ouid=101416693121345503921&rtpof=true&sd=true
+
+# ワイヤーフレーム
+
+https://drive.google.com/file/d/1_u3i0LuWCAM13vpP4mLKYR_fnZudaNnl/view?usp=sharing
+
 #
