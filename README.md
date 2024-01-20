@@ -6,3 +6,4 @@
 # 実行手順
 
 $ git clone git@github.com:MeguShin/stock-management-app.git
+$
