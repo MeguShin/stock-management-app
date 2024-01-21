@@ -33,7 +33,7 @@ https://drive.google.com/file/d/1_u3i0LuWCAM13vpP4mLKYR_fnZudaNnl/view?usp=shari
 
 # 状態遷移図
 
-![image](https://github.com/MeguShin/stock-management-app/assets/124676146/75719c40-e394-4a51-ac7d-a1c3f7fab542)
+![image](https://github.com/MeguShin/stock-management-app/assets/124676146/0ad83aa3-e210-47f9-b429-28614ac26986)
 https://drive.google.com/file/d/1HTq495m_cXtZrkl-k6yr-bhDwbjtssPl/view?usp=sharing
 #
 
