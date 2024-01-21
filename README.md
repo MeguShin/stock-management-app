@@ -29,7 +29,7 @@ https://drive.google.com/file/d/1_u3i0LuWCAM13vpP4mLKYR_fnZudaNnl/view?usp=shari
 
 # ER図
 
-![image](https://drive.google.com/file/d/122tXa2tQdKUaUMM4c6MaF_FLyGUCSzHN/view?usp=sharing)
+![image]https://drive.google.com/file/d/122tXa2tQdKUaUMM4c6MaF_FLyGUCSzHN/view?usp=sharing
 
 # 状態遷移図
 
