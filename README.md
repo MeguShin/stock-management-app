@@ -29,7 +29,7 @@ https://drive.google.com/file/d/1_u3i0LuWCAM13vpP4mLKYR_fnZudaNnl/view?usp=shari
 
 # ER図
 
-![image](https://github.com/MeguShin/stock-management-app/assets/124676146/2f94227a-5a57-4e9d-aa96-849b56cf9e99)
+![image]([https://github.com/MeguShin/stock-management-app/assets/124676146/2f94227a-5a57-4e9d-aa96-849b56cf9e99](https://drive.google.com/file/d/122tXa2tQdKUaUMM4c6MaF_FLyGUCSzHN/view?usp=sharing))
 
 # 状態遷移図
 
